@@ -1,0 +1,85 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+#banner{
+background:url(image/pic2.jpg);
+background-size:cover;
+background-position:center;
+height:100vh;
+ }
+
+  .banner-text{
+   text-align:center;
+   color: black;
+   padding-top:180px;
+  }
+
+  .banner-text h1{
+     font-size:50px
+  }
+  
+  .banner-text p{
+     font-size:20px;
+     font-style:italic;
+}
+  .banner-btn {
+    padding-right:100px;
+  }
+   
+  .banner-btn{
+    width:150px;
+    text-decoration:none;
+    display:inline-block;
+    margin:0 10px;
+    padding:12px 0;
+    color:white;
+    border;5px solid #fff;
+    padding-left:600px;
+
+  }
+#sideNav{
+    width:250px;
+    height:100vh;
+    position:fixed;
+    left:0;
+    top:0;
+    background: brown;
+    Z-index:2;
+  }
+nav ul li{
+     list-style:none;
+     margin:50px 20px;
+
+}
+nav ul li:hover{
+    background-color:black;
+    cursor:pointer;
+}
+
+nav ul li a{
+    text-decoration:none;
+    color:#fff;
+}
+#feature{
+     width:100%
+     padding:70px 0
+}
+.title-text{
+     text-align:center;
+     padding-bottom:70px;
+}
+.title-text p{
+    margin:auto;
+    font-size:20px;
+    color:#009688;
+    font-weight:bold;
+}
+.title-text h1{
+     font-size:50px;
+}
+
+    
+
+    
